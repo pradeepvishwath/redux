@@ -1,0 +1,29 @@
+.loading-spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+}
+
+
+ .input-field-show{
+  position: relative;
+}
+
+/* .show-password-button{
+  position: absolute;
+  margin-left: 460px;
+  top: 52%;
+  background-color: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transform: translateY(-50%);
+} */

@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ul{
+  text-decoration: none;
+  list-style-type: none !important;
+}
+
+#cove{
+  background-image: url(../public/Assets/image/simpol.jpeg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#pics{
+  background-image: url(../public/Assets/image/HD\ wallpaper_\ Windows\ 10\,\ abstract\,\ landscape.jpeg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.show-password-button {
+  position: absolute;
+  /* top: 0%;  */
+  /* right: 10px;  */
+  transform: translateY(-100%); /* Center vertically */
+  background: none;
+  border: none;
+  display: flex;
+  cursor: pointer;
+  margin-left: 380px;
+}
+.show-password-buttonn {
+  position: absolute;
+  /* top: 0%;  */
+  /* right: 10px;  */
+  transform: translateY(-100%); /* Center vertically */
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 380px;
+}.show-password-button1 {
+  position: absolute;
+  /* top: 0%;  */
+  /* right: 10px;  */
+  transform: translateY(-100%); /* Center vertically */
+  background: none;
+  border: none;
+  display: flex;
+  cursor: pointer;
+  margin-left: 450px;
+  margin-top: -5px;
+}
+.show-password-buttonn1 {
+  position: absolute;
+  /* top: 0%;  */
+  /* right: 10px;  */
+  transform: translateY(-100%); /* Center vertically */
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 450px;
+  margin-top: -3px;
+}
